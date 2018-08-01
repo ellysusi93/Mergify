@@ -6,3 +6,4 @@ rules:
           - ci/circleci
       required_pull_request_reviews:
         required_approving_review_count: 1
+    enabling_label: qa-approved
