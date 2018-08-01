@@ -3,4 +3,4 @@ rules:
     protection:
     required_status_checks:
         contexts:
-          - continuous-integration/ci/circleci
+          - continuous-integration/circleci
