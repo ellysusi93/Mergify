@@ -1,1 +1,6 @@
 rules:
+  default:
+    protection:
+      required_status_checks:
+        contexts:
+          - continuous-integration/circle-ci
